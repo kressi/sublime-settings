@@ -1,8 +1,9 @@
 # Exclude all files
 *
 
-# Except .gitignore
+# Except
 !/.gitignore
+!/README.md
 
 # Except sublime-settings in /Packages and subfolders
 !/Packages
