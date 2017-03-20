@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoPEP8",
+		"ColorPicker",
+		"Compare Side-By-Side",
+		"FileDiffs",
+		"FSharp",
+		"GitHub Flavored Markdown Preview",
+		"Golang Build",
+		"Highlight",
+		"JSON Reindent",
+		"LaTeXTools",
+		"MinimalFortran",
+		"NFO",
+		"Package Control",
+		"Print to HTML",
+		"Prolog",
+		"SublimeLinter",
+		"Theme - Soda",
+		"x86 and x86_64 Assembly"
+	],
+	"repositories":
+	[
+	]
+}

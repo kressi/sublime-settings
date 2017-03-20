@@ -1,0 +1,10 @@
+# Exclude all files
+*
+
+# Except .gitignore
+!/.gitignore
+
+# Except sublime-settings in /Packages and subfolders
+!/Packages
+!/Packages/**/
+!*.sublime-settings
