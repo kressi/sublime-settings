@@ -3,7 +3,6 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"Vintage"
 	],
 	"theme": "Boxy Monokai.sublime-theme",
 	"update_check": false
